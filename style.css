@@ -39,6 +39,7 @@ button{font:inherit;color:inherit;border:0;cursor:pointer}
 .fin{text-align:center}.fin .gros{font-size:5rem}
 .fin .xp{font-size:2.4rem;font-weight:800;color:var(--jaune)}
 .primaire{background:var(--jaune);color:#2b1b00;font-weight:800;font-size:1.4rem;border-radius:20px;padding:16px 28px;box-shadow:var(--ombre);margin:8px}
+a.primaire{display:inline-block;text-decoration:none;text-align:center;max-width:calc(100% - 16px);line-height:1.3}   /* un lien en forme de bouton : un seul bloc, même sur un petit téléphone */
 .avatars{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}
 .avatars button{font-size:2.6rem;background:var(--carte2);border-radius:18px;width:72px;height:72px;box-shadow:var(--ombre)}
 .avatars button.sel{outline:4px solid var(--jaune)}

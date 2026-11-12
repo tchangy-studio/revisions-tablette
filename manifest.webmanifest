@@ -1,0 +1,1 @@
+{"name":"Révisions","short_name":"Révisions","start_url":"./index.html","display":"standalone","background_color":"#1e1650","theme_color":"#3b2a8f","icons":[{"src":"icone.svg","sizes":"any","type":"image/svg+xml"},{"src":"icone-192.png","sizes":"192x192","type":"image/png"},{"src":"icone-512.png","sizes":"512x512","type":"image/png"}],"scope":"./"}
